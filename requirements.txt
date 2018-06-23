@@ -1,2 +1,3 @@
 python≥3.0
-mysql
+requests==2.19.1
+pyMySQL==0.8.1
